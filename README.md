@@ -25,5 +25,6 @@ Play [**_Square Puzzle_**](https://zhiyuanc1718.github.io/p5js/N-Squared-Puzzle.
 5. AP Calculus AB
 6. United States History
 7. AP Chemistry
-8. AP Chemistry Lab
+8. AP Chemistry Labs
 
+![my image](Images/DangerZone.png)
